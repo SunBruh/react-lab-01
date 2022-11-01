@@ -1,0 +1,37 @@
+.Votes .percentage-shell {
+  height: 30px;
+  width: 100%;
+}
+.Votes .perc {
+  height: 30px;
+  border-radius: 50px;
+}
+.Votes .choc-perc {
+  background-color: brown;
+}
+
+.Votes .van-perc {
+  background-color: beige;
+}
+
+.Votes .straw-perc {
+  background-color: pink;
+}
+
+.Votes .choc-vote {
+  display: none;
+}
+.Votes .van-vote {
+  display: none;
+}
+.Votes .straw-vote {
+  display: none;
+}
+
+.Votes .block {
+  display: block;
+}
+
+.Votes .go-away {
+  display: none;
+}
